@@ -33,7 +33,7 @@ Thanks to AI-boosted coding we can get relived of the nitty-gritty boilerplate c
 
 Many coders today spend much of their time on nitty-gritty coding and non-interesting boilerplate. Compare to machine engineering building a factory producing things: do the machine engineers work all day by the conveyor belt doing repetivie tasks? No. But the sure need to understand what is going on in detail on the factory floor in order to be good at optimizing the flow of goods in the production. Many software engieers are stuck with low level coding of writing nitty-gritty bolierplate and crafting while loops. AI can help us here, and the more standard and bolierplaty the code is, the more reliable is AI-generated solutions.
 
-## What junior software developers need to stay relevant?
+## Software engineering knowledge that help you stay stay relevant
 
 * A deep and thurough education in computer science and engineering
 
