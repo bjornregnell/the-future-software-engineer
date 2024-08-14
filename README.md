@@ -41,6 +41,7 @@ Many coders today spend much of their time on nitty-gritty coding and non-intere
 * Understand the limitations of trained AI: bias, over-training, hallucination, ... 
 * Use symbolic AI and "normal" code to check and balance trained AI code both statically and at runtime.
 * Always set aside resources for human inspectio of AI-generated code.
+* Use AI to explain, critizise and experiment with your own hand-crafted code. The goal is for you to learn more and be more productive rather than handing over the control to AI.
 
 Software Engineering topics that are even more important in th AI-boosted era:
 * Software Inspection
