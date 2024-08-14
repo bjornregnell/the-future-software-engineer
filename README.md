@@ -5,7 +5,7 @@ Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27
 **What every junior software developer must know to stay relevant in the AI-boosted era**
 
 ### About me
-I do teaching and research in software engineering. Since 2015 I have been responsible for the first programming course for Master students in Computer Science at the Faculty of Engineering, LTH at Lund University. In 2016 we started to use Scala as the first programming language, due to its simple syntax and powerful abstrations.
+I do teaching and research in software engineering. Since 2015 I have been responsible for the first programming course for Master students in Computer Science at the Faculty of Engineering, LTH at Lund University. 
 
 ## Intro
 
@@ -33,16 +33,21 @@ Thanks to AI-boosted coding we can get relived of the nitty-gritty boilerplate c
 
 Many coders today spend much of their time on nitty-gritty coding and non-interesting boilerplate. Compare to machine engineering building a factory producing things: do the machine engineers work all day by the conveyor belt doing repetivie tasks? No. But the sure need to understand what is going on in detail on the factory floor in order to be good at optimizing the flow of goods in the production. Many software engieers are stuck with low level coding of writing nitty-gritty bolierplate and crafting while loops. AI can help us here, and the more standard and bolierplaty the code is, the more reliable is AI-generated solutions.
 
-## What should a junior software developer should learn to stay relevant?
+## What junior software developers need to stay relevant?
 
-* Learn about AI: both trained AI and symbolic AI.
+* A deep and thurough education in computer science and engineering
+
+* Knowledge about AI: both trained AI and symbolic AI.
 * Understand the limitations of trained AI: bias, over-training, hallucination, ... 
 * Use symbolic AI and "normal" code to check and balance trained AI code both statically and at runtime.
 * Always set aside resources for human inspectio of AI-generated code.
 
-Software Engineering topics that is even more important:
+Software Engineering topics that are even more important in th AI-boosted era:
 * Software Inspection
 * Requirements Engineering
-* Architecture
+* Software Architecture
+* High-level, safe programming languages with powerful abstractions and advanced type system that enables strong static checks
+
+In 2016 we started to use Scala as the first programming language at LTH for our CS programs, due to its simple syntax and powerful type system that help you find bugs already at compile time.  
 
 ## Outro
