@@ -11,7 +11,7 @@ I do teaching and research in software engineering. Since 2015 I have been respo
 
 The "Death of Programming", was recently predicted by Jensen Huang, the top boss at NVidia that makes the AI chips that currently heat up our plannet, as we speak.
 
-Is he right that AI will take the jobs of human coders? Should we stop teach coding to Software Engineers and instead teach Prompt Engineering and how to make a large language model write all the code for us, using Github Copilot, ChatGPT and similar tools that are already integrated in our development tools such as Microsoft VS Code and Jetbrains IntelliJ?
+Is he right that AI will take the jobs of human coders? Should I as a professor stop teaching programming to Software Engineers and instead teach "Prompt Engineering" and how to make a large language model write all the code for us, using Github Copilot, ChatGPT and similar tools that are already integrated in our development tools such as Microsoft VS Code and Jetbrains IntelliJ?
 
 I don't think so!
 
@@ -52,3 +52,7 @@ Software Engineering topics that are even more important in th AI-boosted era:
 In 2016 we started to use Scala as the first programming language at LTH for our CS programs, due to its simple syntax and powerful type system that help you find bugs already at compile time.  
 
 ## Outro
+
+## References
+
+https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
