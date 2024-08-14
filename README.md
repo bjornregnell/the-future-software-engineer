@@ -5,7 +5,7 @@ Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27
 **What every junior software developer must know to stay relevant in the AI-boosted era**
 
 ### About me
-I do teaching and research in software engineering. The last 8 years I have been responsible for the introductary programming course for Master students in IT at LTH, Faculty of Engineering at Lund University.
+I do teaching and research in software engineering. The last 8 years I have been responsible for the introductary programming course for Master students in IT at the Faculty of Engineering, LTH at Lund University.
 
 ## Intro
 
