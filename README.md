@@ -51,7 +51,7 @@ Software Engineering topics that are even more important in th AI-boosted era:
 * Software Architecture
 * High-level, safe programming languages with powerful abstractions and advanced type system that enables strong static checks
 
-In 2016 we started to use Scala as the first programming language at LTH for our CS programs, due to its simple syntax and powerful type system that help you find bugs already at compile time.  
+In 2016 we started to use Scala as the first programming language at LTH for our Master-level programs in Computer Science and Engieering, due to its simple syntax and powerful type system making  it easy to learn while helping you find bugs already at compile time.  
 
 ## Outro
 
