@@ -68,9 +68,10 @@ A well-educated, AI-boosted software engineer of the future...
 * is expert in software requirements and architecture and knows how to prioritize and do tradeoffs
 * learns to master modern, high-level, powerful and safe programming languages, such as [Scala](https://www.scala-lang.org/), that scale with higher complexity and prevent bugs by design
 
-## References
+## Links
 
 * Jensen Huang "nobody has to program" https://youtu.be/iUOrH2FJKfo?si=egHnlRe3OeTV4Yh5&t=1111
 * https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence
 * https://www.scala-lang.org/
 * https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
+* https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10043615
