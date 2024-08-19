@@ -67,4 +67,5 @@ A well-educated, AI-boosted software engineer of the future...
 ## References
 
 * https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence
+* https://www.scala-lang.org/
 * https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
