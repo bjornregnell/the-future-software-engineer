@@ -2,3 +2,4 @@
 .metals
 .scala-build
 .vscode
+target
