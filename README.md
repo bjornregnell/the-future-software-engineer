@@ -72,6 +72,14 @@ A well-educated, AI-boosted software engineer of the future...
 
 * Jensen Huang "nobody has to program" https://youtu.be/iUOrH2FJKfo?si=egHnlRe3OeTV4Yh5&t=1111
 * https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence
-* https://www.scala-lang.org/
+* Learn Scala, a modern, powerful, safe programming language: 
+  * https://www.scala-lang.org/
+  * https://cs.lth.se/pgk/
+* Learn Software Requirements Engineering:
+  * https://cs.lth.se/krav/
 * https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
-* https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10043615
+* On software developer productivity
+  * https://web.eecs.umich.edu/~movaghar/What_Predicts_Software_Developers_Productivity%20IEEE-TSE%202019.pdf
+  * https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10043615
+  * https://youtu.be/X_vNaD1JOEY?si=JK86O3S-qX9I8SMV
+  * https://dl.acm.org/doi/pdf/10.1145/3540250.3558940
