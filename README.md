@@ -9,7 +9,7 @@ I teach and do research in Software Engineering. Since 2015 I am responsible for
 
 ## Intro
 
-The "Death of Programming", was recently predicted by Jensen Huang, the top boss at NVidia, which makes many of the AI chips that currently heat up our plannet, as we speak.
+The Death of Programming was recently predicted based a statement by Jensen Huang, the CEO of NVidia, the company that makes many of the AI chips that currently heat up our plannet, as we speak.
 
 Is he right that AI will take the jobs of human coders? Should I as a professor stop teaching programming to Software Engineers and instead teach "Prompt Engineering" and how to make a large language model write all the code for us, using Github Copilot, ChatGPT and similar tools that are already integrated in our development tools such as Microsoft VS Code and Jetbrains IntelliJ?
 
@@ -19,7 +19,11 @@ We have heard the story before. Already in 1957 the ancient programming language
 
 What happened? Thanks to the compiler, software engineers could start coding at a higher abstraction level and get more done. Did assembler programmers loose their jobs? No, but the needed to learn new things. And they had really good use of their deep knowledge in machine coding when writing source code. We still today teach about machine programming as every well-educated software engineer needs to understand what is actually happening at different abstraction levels.
 
-The programming languages of the 60'ies provided abstraction mechisms that enabled the construction of much more complex software at a much higher productivity rate. And the story repeats itself on and on in the history of software engineering: powerful abstractions enable us to create more complex software, and when it gets too complex we need to create more powerful abstractions.   
+The programming languages of the 60'ies provided abstraction mechisms that enabled the construction of much more complex software at a much higher productivity rate. And the story repeats itself on and on in the history of software engineering: powerful abstractions enable us to create more complex software, and when it gets too complex we need to create more powerful abstractions.
+
+What Jens Huang from Nvidia actually said in Dubai in february 2024 was: "the programming language is human" and "everybody in the world is now a programmer - this is the miracle of artificial intelligence".
+
+Yes, I think AI can help us with the nitty gritty, boilerplate coding details. No, I don't think AI will replace us as software engineers. But it will help us raise the abstraction level and create even more complex systems. And I agree that Domain Knowledge is super-important - as it always has been.
 
 ## Symbolic and sub-symbolic AI
 
@@ -66,6 +70,7 @@ A well-educated, AI-boosted software engineer of the future...
 
 ## References
 
+* Jensen Huang "nobody has to program" https://youtu.be/iUOrH2FJKfo?si=egHnlRe3OeTV4Yh5&t=1111
 * https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence
 * https://www.scala-lang.org/
 * https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
