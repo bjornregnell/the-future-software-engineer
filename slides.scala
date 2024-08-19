@@ -8,10 +8,16 @@ import taggy.*
 
 @main def run = slides.toPdf()
 
-def slides = document("Taggy Slide Example"):
-  frame("Greetings in two languages"):
-    p("Nice greetings:")
+def slides = document("The Future Software Engineer"):
+  frame("Slide 1"):
     itemize:
-      p("English: Hello world!")
-      p("Swedish: Hej världen!")
-    p("https://github.com/bjornregnell/taggy")
+      p("TODO")
+
+  frame("Death of programming?"):
+    image(file = "../img/nobody.png", width = 1.0)
+    p("Prediction by Jensen Huang, CEO of Nvidia (February 2024)")
+
+  
+  frame("Automatic Programming in the '50ies"):
+    image(file = "../img/fortran.png", width = 1.0)
+    p("Western Computer Proceedings (1957)")
