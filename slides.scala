@@ -17,7 +17,10 @@ def slides = document("The Future Software Engineer"):
     image(file = "../img/nobody.png", width = 1.0)
     p("Prediction by Jensen Huang, CEO of Nvidia (February 2024)")
 
-  
   frame("Automatic Programming in the '50ies"):
     image(file = "../img/fortran.png", width = 1.0)
     p("Western Computer Proceedings (1957)")
+
+  frame("Developer productivity"):
+    image(file = "../img/productivity.png", width = 1.0)
+    p("IEEE Transaction on Software Engineering (2021)")
