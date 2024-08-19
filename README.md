@@ -5,7 +5,7 @@ Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27
 **What every junior software developer must know to stay relevant in the AI-boosted era**
 
 ### About me
-I teach and do research in Software Engineering. Since 2015 I am responsible for the first programming course for Master students in Computer Science at the Faculty of Engineering, LTH at Lund University. I also teach an advanced-level course in Software Requirements Engineering. I am a member of the Scala Improve Process Commitee that governs the evolution of the Scala programming language, which likely is powering the back-end of many of the apps that you use.
+I teach and do research in Software Engineering. Since 2015 I am responsible for the first programming course for Master students in Computer Science at the Faculty of Engineering, LTH at Lund University. I also teach an advanced-level course in Software Requirements Engineering. I am a member of the Scala Improve Process Commitee that governs the evolution of the Scala programming language.
 
 ## Intro
 
