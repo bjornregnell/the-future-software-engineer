@@ -55,4 +55,5 @@ In 2016 we started to use Scala as the first programming language at LTH for our
 
 ## References
 
-https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
+* https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence
+* https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
