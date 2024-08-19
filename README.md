@@ -60,9 +60,9 @@ In 2016 we started to use Scala as the first programming language at LTH for our
 A well-educated, AI-boosted software engineer of the future...
 * applies AI as a dev tool only when it really helps rather than pollutes the code with garbage and tricky bugs
 * understands the limitations of generative AI and reviews all AI-generated code carefully
-* is expert on software requirements and architecture and knows how to prioritize and do tradeoffs
-* learns to master modern, high-level, powerful and safe programming languages, such as Scala, that scale with higher complexity and prevent bugs by design
-
+* understands when symbolic AI is better than trained AI
+* is expert in software requirements and architecture and knows how to prioritize and do tradeoffs
+* learns to master modern, high-level, powerful and safe programming languages, such as [Scala](https://www.scala-lang.org/), that scale with higher complexity and prevent bugs by design
 
 ## References
 
