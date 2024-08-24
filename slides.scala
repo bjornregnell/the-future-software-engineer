@@ -57,15 +57,13 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
       p(s"$pause **Symbolic AI** will come back to help contain ML shortfalls")
 
   frame("My advice"):
-    p(s"Who gets to do the **fun \\$and difficult parts** of development?")
-    space(2.0)
-    p("To **stay relevant** and get the **best jobs**:")
+    p("to **stay relevant** and get the **best jobs**:")
     itemize:
       p(s"Get a **good degree** in Computer Science \\& Software Engineering at a good university")
+      p(s"$pause Learn about how ML works under the hood (a.k.a linear algebra) and dig into **Symbolic AI** (constraint programming, logic programming, search algorithms, automatic proofs, SAT solvers, expert systems, automated planing and scheduling, ...) ")
       p(s"$pause Learn **safe** and **powerful** programming languages $nl $pause such as Scala https://www.scala-lang.org/")
-      p(s"$pause Take responsible for understanding the **''why''** and get the **big picture** and **deep domain knowledge** and develop you **decision-making skills** $nl $pause a.k.a Requirements Engineering")
+      p(s"$pause Take responsible for understanding the **''why''** and get the **big picture** and **deep domain knowledge** and develop your **decision-making skills** $nl $pause a.k.a Requirements Engineering")
       p(s"$pause Choose an employer that lets you **learn on the job**, gives you **challenges with mandate** and is **ethical**")
-      p(s"$pause Learn about how AI works and als dig into symbolic AI")
 
   frame("Developer productivity"):
     image(file = "../img/productivity.png", width = 1.0)
