@@ -42,8 +42,6 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
   frame("My predictions"):
     itemize:
       p(s"AI will **NOT steal the jobs** of (junior) software engineers")
-    p(s"$pause Sooner or later:")
-    itemize:
       p(s"AI will help us **significantly raise the level of abstraction**")
       p(s"$pause AI will make us **more productive** and help us **create even more complex systems**")
       p(s"$pause AI will create **lots of bugs** (that will keep *senior* devs busy)")
@@ -54,7 +52,15 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
         p(s"$pause difficult software quality trade-offs")
         p(s"$pause resilient software architecture with less planet heating")
         p(s"$pause modern safe programming languages with new powerful abstraction mechanisms")
-      p(s"$pause **Symbolic AI** will come back to help contain ML shortfalls")
+      p(s"$pause **Symbolic AI** will be back to help contain ML deficiencies")
+
+  frame("Soner than you think: Symbolic AI will be back!"):
+    p("TODO")
+
+  frame("Developer productivity"):
+    image(file = "../img/productivity.png", width = 1.0)
+    p("IEEE Transaction on Software Engineering (2021)")
+
 
   frame("My advice"):
     p("to **stay relevant** and get the **best jobs**:")
@@ -65,6 +71,7 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
       p(s"$pause Take responsible for understanding the **''why''** and get the **big picture** and **deep domain knowledge** and develop your **decision-making skills** $nl $pause a.k.a Requirements Engineering")
       p(s"$pause Choose an employer that lets you **learn on the job**, gives you **challenges with mandate** and is **ethical**")
 
-  frame("Developer productivity"):
-    image(file = "../img/productivity.png", width = 1.0)
-    p("IEEE Transaction on Software Engineering (2021)")
+  frame("THANK YOU!"):
+    p("Links:")
+    itemize:
+      p("These slides: TODO")
