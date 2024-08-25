@@ -48,6 +48,13 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
     image(file = "../img/productivity.png", width = 1.05)
     p(s"$pause **productivity** $arrows **work environment** $arrows **code quality**")
 
+  frame("Defects get really expensive downstream"):
+    p("Assuming we detect a req defect in...")
+    image(file = "../img/cost.jpg", width = 0.8)
+    itemize:
+      p("Important to detect defects early.")
+      p("Focus on high-quality requirements, architecture, design, ...")
+
 
   frame("Machine Lerning (ML) deficiencies"):
     p("Everyone seem to throw ML at any problem currently, but...")
