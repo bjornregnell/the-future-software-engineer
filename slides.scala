@@ -99,7 +99,7 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
   frame("My advice to **stay relevant** and get the **best jobs**"):
     textSize(10,12)
     itemize:
-      p(s"Get a **good degree** in Computer Science and Software Engineering at a good university")
+      p(s"Get a **good degree** in Computer Science and Software Engineering at a good university; resist dropping out for a job")
       p(s"$pause Learn how ML works **under the hood** (a.k.a linear algebra) ")
       itemize:
         p("Try this simple neural network to see principles and problems: https://github.com/bjornregnell/scai")
@@ -109,11 +109,14 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
       p(s"$pause Take responsible for understanding the **''why''** and get the **big picture** and **deep domain knowledge** and develop your **decision-making skills** and **quality trade-offs** $nl $pause a.k.a Requirements Engineering")
       p(s"$pause Choose an employer that lets you **learn on the job**, gives you **challenges with mandate** and is **ethical**")
 
-  frame("THANK YOU!"):
+  frame("End of talk. **THANK YOU!**"):
     textSize(10,10)
     itemize:
-      p(s"These slides: TODO")
-      p(s"Paper on developers' productivity by researchers at Google: https://web.eecs.umich.edu/~movaghar/What_Predicts_Software_Developers_Productivity%20IEEE-TSE%202019.pdf")
+      p(s"These slides: https://github.com/bjornregnell/the-future-software-engineer/")
+      p(s"Papers on productivity by the tools research team at Google:") 
+      itemize:
+        p("https://web.eecs.umich.edu/~movaghar/What_Predicts_Software_Developers_Productivity%20IEEE-TSE%202019.pdf")
+        p("https://dl.acm.org/doi/pdf/10.1145/3540250.3558940")
       p(s"Sofware Quality with the QUPER model (video from Öredev): https://cs.lth.se/krav/quality-requirements/")
       p(s"Papers by Björn Regnell: $nl https://scholar.google.com/citations?user=W37CtAwAAAAJ")
       p(s"Navigating the EU AI Act (Wagner, Borg, Runeson): $nl https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372509")
