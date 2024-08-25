@@ -94,7 +94,7 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
       p(s"constraint programming, logic programming, search algorithms, automatic proofs, SAT solvers, expert systems, automated planing and scheduling, ...")
       p("https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence")
 
-    p("In systems that rely on ML models we need **a lot of extra code to contain it** esp. in **safety-critical** systems that might **kill people** and be hacked, such as self-driving cars.")
+    p("In systems that rely on ML models we need **a lot of extra code to contain it** esp. in **safety-critical** systems that might **kill humans** and be hacked, such as self-driving cars.")
 
   frame("AI will be regulated! Regulations need ''normal'' code."):
     itemize:
