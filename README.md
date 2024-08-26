@@ -1,13 +1,19 @@
 # The Future Software Engineer
 
-Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27 
+Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27.
+
+* Download slides under [releases](https://github.com/bjornregnell/the-future-software-engineer/releases)
+
+* Source code in [slides.scala](https://github.com/bjornregnell/the-future-software-engineer/blob/main/slides.scala)
+
+* Slides are made with the micro-library [taggy](https://github.com/bjornregnell/taggy) that showcases [context functions](https://docs.scala-lang.org/scala3/reference/contextual/context-functions.html), and advanced but powerful concept in Scala 3.
 
 **What every junior software developer must know to stay relevant in the AI-boosted era**
 
 ### About me
 I teach and do research in Software Engineering. Since 2015 I am responsible for the first programming course for Master students in Computer Science at the Faculty of Engineering, LTH at Lund University. I also teach an advanced-level course in Software Requirements Engineering. I am a member of the Scala Improve Process Commitee that governs the evolution of the Scala programming language.
 
-## Intro
+### Outline of talk
 
 The Death of Programming was recently predicted based a statement by Jensen Huang, the CEO of NVidia, the company that makes many of the AI chips that currently heat up our plannet, as we speak.
 
@@ -25,21 +31,19 @@ What Jens Huang from Nvidia actually said in Dubai in february 2024 was: "the pr
 
 Yes, I think AI can help us with the nitty gritty, boilerplate coding details. No, I don't think AI will replace us as software engineers. But it will help us raise the abstraction level and create even more complex systems. And I agree that Domain Knowledge is super-important - as it always has been.
 
-## Symbolic and sub-symbolic AI
-
-### What is good with trained, generative AI?
+#### What is good with trained, generative AI?
 
 Thanks to AI-boosted coding we can get relived of the nitty-gritty boilerplate coding and focus on the hard stuff in Software Engineering, and we can raise the level of abstraction. Finally the experienced coders can get more time for things like requirements engineering and architecture. 
 
 Many coders today spend much of their time on nitty-gritty coding and non-interesting boilerplate. Compare to machine engineering building a factory producing things: do the machine engineers work all day by the conveyor belt doing repetivie tasks? No. But the sure need to understand what is going on in detail on the factory floor in order to be good at optimizing the flow of goods in the production. Many software engieers are stuck with low level coding of writing nitty-gritty bolierplate and crafting while loops. AI can help us here, and the more standard and bolierplaty the code is, the more reliable is AI-generated solutions.
 
-### What is bad with trained, generative AI?
+#### What is bad with trained, generative AI?
 
 AI-code can have bugs anywhere, even if the code looks ok. The result from a large langugage model has an inherent stochastic element, due to the way it is constructed: the training process needs randomness to be effective at gradually adjusting the parameters of the underlying neural network. 
 
 And we can't really **explain** exactly why the AI halucinated and gave us buggy code. 
 
-## Software engineering knowledge that help you stay stay relevant
+#### Software engineering knowledge that help you stay stay relevant
 
 * A deep and thurough education in computer science and engineering
 
@@ -57,9 +61,9 @@ Software Engineering topics that are even more important in th AI-boosted era:
 
 In 2016 we started to use Scala as the first programming language at LTH for our Master-level programs in Computer Science and Engieering, due to its simple syntax and powerful type system making  it easy to learn while helping you find bugs already at compile time.  
 
-## Outro
+#### Outro
 
-### The Future Software Engineer
+##### The Future Software Engineer
 
 A well-educated, AI-boosted software engineer of the future...
 * applies AI as a dev tool only when it really helps rather than pollutes the code with garbage and tricky bugs
@@ -68,7 +72,7 @@ A well-educated, AI-boosted software engineer of the future...
 * is expert in software requirements and architecture and knows how to prioritize and do tradeoffs
 * learns to master modern, high-level, powerful and safe programming languages, such as [Scala](https://www.scala-lang.org/), that scale with higher complexity and prevent bugs by design
 
-## Links
+### Links
 
 * Jensen Huang "nobody has to program" https://youtu.be/iUOrH2FJKfo?si=egHnlRe3OeTV4Yh5&t=1111
 * https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence
