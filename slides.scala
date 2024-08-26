@@ -14,7 +14,7 @@ def arrows = "$\\Longleftrightarrow$"
 @main def run = 
   import Latex.Preamble, Preamble.slideTemplate
   given Preamble(slideTemplate()
-    //.replace("class{beamer", "class[handout]{beamer")
+    //.replace("class{beamer}", "class[handout]{beamer}")
   )
   slides.toPdf()
 
