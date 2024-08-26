@@ -2,13 +2,15 @@
 
 Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27.
 
-* Download slides under [Releases](https://github.com/bjornregnell/the-future-software-engineer/releases)
-
-* Source code in [slides.scala](https://github.com/bjornregnell/the-future-software-engineer/blob/main/slides.scala)
-
-* Slides are made with the micro-library [taggy](https://github.com/bjornregnell/taggy) that showcases [context functions](https://docs.scala-lang.org/scala3/reference/contextual/context-functions.html), an advanced but powerful concept in Scala 3.
+Subtitle:
 
 **What every junior software developer must know to stay relevant in the AI-boosted era**
+
+
+* Download slides under [Releases](https://github.com/bjornregnell/the-future-software-engineer/releases)
+* Source code in [slides.scala](https://github.com/bjornregnell/the-future-software-engineer/blob/main/slides.scala)
+* Slides are made with the micro-library [taggy](https://github.com/bjornregnell/taggy) that showcases [context functions](https://docs.scala-lang.org/scala3/reference/contextual/context-functions.html), an advanced but powerful concept in Scala 3.
+
 
 ### About me
 I teach and do research in Software Engineering. Since 2015 I am responsible for the first programming course for Master students in Computer Science at the Faculty of Engineering, LTH at Lund University. I also teach an advanced-level course in Software Requirements Engineering. I am a member of the Scala Improve Process Commitee that governs the evolution of the Scala programming language.
