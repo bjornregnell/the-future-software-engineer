@@ -1,10 +1,9 @@
 # The Future Software Engineer
 
-Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27.
-
-Subtitle:
-
 **What every junior software developer must know to stay relevant in the AI-boosted era**
+
+*Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27.*
+
 
 
 * Download slides under [Releases](https://github.com/bjornregnell/the-future-software-engineer/releases)
