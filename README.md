@@ -2,7 +2,7 @@
 
 Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27.
 
-* Download slides under [releases](https://github.com/bjornregnell/the-future-software-engineer/releases)
+* Download slides under [Releases](https://github.com/bjornregnell/the-future-software-engineer/releases)
 
 * Source code in [slides.scala](https://github.com/bjornregnell/the-future-software-engineer/blob/main/slides.scala)
 
