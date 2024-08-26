@@ -11,7 +11,12 @@ def and = "\\&"
 def nl = "~\\\\{}"
 def arrows = "$\\Longleftrightarrow$"
 
-@main def run = slides.toPdf()
+@main def run = 
+  import Latex.Preamble, Preamble.slideTemplate
+  given Preamble(slideTemplate()
+    //.replace("class{beamer", "class[handout]{beamer")
+  )
+  slides.toPdf()
 
 def slides = document("The Future Software Engineer", author = "Björn Regnell"):
   frame("About me"):
