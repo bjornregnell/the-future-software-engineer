@@ -110,10 +110,10 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
       p(s"$pause Learn how ML works **under the hood** (a.k.a linear algebra) ")
       itemize:
         p("Try this simple neural network to see principles and problems: https://github.com/bjornregnell/scai")
-      p(s"Dig into **Symbolic AI** (will resurrect during next AI winter (?))")
+      p(s"Check out **Symbolic AI** (may resurrect during next AI winter (?))")
       p(s"Understand coming **AI regulation** and its implications: $nl $pause new features -> more code -> more bugs -> more jobs")
       p(s"$pause Learn **safe** and **powerful** programming languages $nl $pause such as Scala https://www.scala-lang.org/ to boost your productivity and help you create high-quality, bug-free code")
-      p(s"$pause Take responsible for understanding the **''why''** and get the **big picture** and **deep domain knowledge** and develop your **decision-making skills** and **quality trade-offs** $nl $pause a.k.a Requirements Engineering")
+      p(s"$pause Take responsibility for understanding the **''why''** and get the **big picture** and **deep domain knowledge** and develop your **decision-making skills** and **quality trade-offs** $nl $pause a.k.a Requirements Engineering")
       p(s"$pause Choose an employer that lets you **learn on the job**, gives you **challenges with mandate** and is **ethical**")
 
   frame("End of talk. **THANK YOU!**"):
