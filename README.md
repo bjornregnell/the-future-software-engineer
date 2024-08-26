@@ -6,7 +6,7 @@ Talk by Prof. Björn Regnell at Foo Café 12th anniversary, 2024 August 27.
 
 * Source code in [slides.scala](https://github.com/bjornregnell/the-future-software-engineer/blob/main/slides.scala)
 
-* Slides are made with the micro-library [taggy](https://github.com/bjornregnell/taggy) that showcases [context functions](https://docs.scala-lang.org/scala3/reference/contextual/context-functions.html), and advanced but powerful concept in Scala 3.
+* Slides are made with the micro-library [taggy](https://github.com/bjornregnell/taggy) that showcases [context functions](https://docs.scala-lang.org/scala3/reference/contextual/context-functions.html), an advanced but powerful concept in Scala 3.
 
 **What every junior software developer must know to stay relevant in the AI-boosted era**
 
