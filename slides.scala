@@ -39,7 +39,7 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
   frame("guess we doin prompt engineering now"):
     image(file = "../img/prompt-engineering.jpg", width = 1.0)
     p("https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/")
-    p("''full course''' = 45 min...")
+    p("''full course''' = 41 min...")
 
   frame("Automatic Programming in the '50ies"):
     image(file = "../img/fortran.png", width = 1.0)
