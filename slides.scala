@@ -13,10 +13,10 @@ def arrows = "$\\Longleftrightarrow$"
 
 @main def run = 
   import Latex.Preamble, Preamble.slideTemplate
-  given Preamble(slideTemplate()
-    //.replace("class{beamer}", "class[handout]{beamer}")
-  )
-  slides.toPdf()
+  val handout = Preamble(slideTemplate())
+  val live = Preamble(slideTemplate().replace("class{beamer}", "class[handout]{beamer}"))
+  slides.toPdf(out = "slides-handout.pdf")(using handout)
+  slides.toPdf(out = "slides.pdf")(using live)
 
 def slides = document("The Future Software Engineer", author = "Björn Regnell"):
   frame("About me"):
