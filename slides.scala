@@ -41,6 +41,10 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
     p("https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/")
     p("''full course''' = 41 min...")
 
+  frame("AI-boosted Software Engineering example"):
+    image(file = "../img/prompt-RE.jpg", width = 0.9)
+    p("Recent requirements engineering research from Göteborg https://link.springer.com/content/pdf/10.1007/978-3-031-55642-5_5")
+
   frame("Automatic Programming in the '50ies"):
     image(file = "../img/fortran.png", width = 1.0)
     p("Western Computer Proceedings (1957)")
@@ -60,7 +64,6 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
     itemize:
       p("Important to find defects in early iterations.")
       p("Focus on high-quality requirements, architecture, design, ...")
-
 
   frame("Machine Lerning (ML) deficiencies"):
     p("Everyone seem to throw ML at any problem currently, but...")
@@ -109,6 +112,27 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
     textSize(8,10)
     p("\\hfill Wagner, Borg, Runeson, IEEE Software (January 2024)")
 
+  frame("Common knowledge of a good software engineer"):
+    p("To apply AI effectively we still need foundations.")
+    textSize(10,10)
+    itemize:
+      p("Algorithms, data structures, complexity")
+      p("Architectural patterns and paradigms (FP, OO, ...)")
+      p("Concurrency and real-time processing")
+      p("Requirements Engineering, Software Product Management")
+      p("Usability Engineering, Interaction Design")
+      p("Verification \\& Validation, Testing, Inspections")
+      p("Configuration Management, Continuous Integration/Deployment")
+      p("Discrete Mathematics, Calculus, Linear Algebra, Statistics")
+      p("Operating Systems, Compiler technology, Multicore Optimization")
+      p("Computer Security")
+      p("Networks, Web programming, front- and backend")
+    p("...and other knowledge that you get from a **good degree in IT**")
+    space(1)
+    p("https://kurser.lth.se/lot/programme?ay=24_25&programme=C")  
+    p("https://kurser.lth.se/lot/programme?ay=24_25&programme=D")  
+    p("https://kurser.lth.se/lot/programme?ay=24_25&programme=E")  
+
   frame("My advice to **stay relevant** and get the **best jobs**"):
     textSize(10,12)
     itemize:
@@ -123,7 +147,7 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
       p(s"$pause Choose an employer that lets you **learn on the job**, gives you **challenges with mandate** and is **ethical**")
 
   frame("End of talk. **THANK YOU!**"):
-    textSize(10,10)
+    textSize(10,10) 
     itemize:
       p(s"These slides: https://github.com/bjornregnell/the-future-software-engineer/")
       p(s"Papers on productivity by the tools research team at Google:") 
