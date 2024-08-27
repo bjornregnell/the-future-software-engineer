@@ -36,9 +36,10 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
     image(file = "../img/nobody.png", width = 1.0)
     p("Prediction by Jensen Huang, CEO of Nvidia (February 2024)")
 
-  frame("Do we only need ''Prompt Engineering'' now?"):
+  frame("guess we doin prompt engineering now"):
     image(file = "../img/prompt-engineering.jpg", width = 1.0)
     p("https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/")
+    p("''full course''' = 45 min...")
 
   frame("Automatic Programming in the '50ies"):
     image(file = "../img/fortran.png", width = 1.0)
