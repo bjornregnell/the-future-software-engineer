@@ -65,7 +65,7 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
       p("Important to find defects in early iterations.")
       p("Focus on high-quality requirements, architecture, design, ...")
 
-  frame("Machine Lerning (ML) deficiencies"):
+  frame("Machine Learning (ML) deficiencies"):
     p("Everyone seem to throw ML at any problem currently, but...")
     textSize(10,12)
     itemize:
