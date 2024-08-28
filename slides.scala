@@ -98,7 +98,7 @@ def slides = document("The Future Software Engineer", author = "Björn Regnell")
       p(s"$pause **Symbolic AI** will be back to help contain ML deficiencies")
 
   frame(s"Sooner than you think: $nl **Symbolic** AI will be back!"):
-    p("Symbolic AI: made with ''normal'', explainable, reliable code that does human-like, smart things with understandable algoritms.")
+    p("Symbolic AI: made with ''normal'', explainable, reliable code that does human-like, smart things with understandable algorithms.")
     itemize:
       p(s"constraint programming, logic programming, search algorithms, automatic proofs, SAT solvers, expert systems, automated planing and scheduling, ...")
       p("https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence")
