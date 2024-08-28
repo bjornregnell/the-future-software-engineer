@@ -6,7 +6,7 @@
 
 * Download slides in pdf under [Releases](https://github.com/bjornregnell/the-future-software-engineer/releases)
 * Source code in [slides.scala](https://github.com/bjornregnell/the-future-software-engineer/blob/main/slides.scala)
-* Slides are made with the micro-library [taggy](https://github.com/bjornregnell/taggy) that showcases [context functions](https://docs.scala-lang.org/scala3/reference/contextual/context-functions.html), an advanced but powerful concept in Scala 3.
+* Slides are made with the micro-library [taggy](https://github.com/bjornregnell/taggy) that showcases [context functions](https://docs.scala-lang.org/scala3/reference/contextual/context-functions.html), a powerful abstraction mechanism in Scala 3.
 
 
 ### About me
