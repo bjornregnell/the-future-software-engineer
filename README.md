@@ -14,7 +14,7 @@ I teach and do research in Software Engineering. Since 2015 I am responsible for
 
 ### Outline of talk
 
-The Death of Programming was recently predicted based a statement by Jensen Huang, the CEO of NVidia, the company that makes many of the AI chips that currently heat up our plannet, as we speak.
+The Death of Programming was recently predicted based on a statement by Jensen Huang, the CEO of NVidia, the company that makes many of the AI chips that currently heat up our plannet, as we speak.
 
 Is he right that AI will take the jobs of human coders? Should I as a professor stop teaching programming to Software Engineers and instead teach "Prompt Engineering" and how to make a large language model write all the code for us, using Github Copilot, ChatGPT and similar tools that are already integrated in our development tools such as Microsoft VS Code and Jetbrains IntelliJ?
 
