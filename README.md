@@ -2,7 +2,7 @@
 
 **What every junior software developer must know to stay relevant in the AI-boosted era**
 
-*Talk by Prof. Björn Regnell at [Foo Café 12th anniversary, 2024 August 27](https://foocafe.org/event/welcome-our-twelfth-anniversary).*
+*Talk by [Prof. Björn Regnell](https://cs.lth.se/bjorn-regnell/) at [Foo Café 12th anniversary, 2024 August 27](https://foocafe.org/event/welcome-our-twelfth-anniversary).*
 
 * Download slides in pdf under [Releases](https://github.com/bjornregnell/the-future-software-engineer/releases)
 * Source code in [slides.scala](https://github.com/bjornregnell/the-future-software-engineer/blob/main/slides.scala)
