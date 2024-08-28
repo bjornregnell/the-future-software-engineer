@@ -73,16 +73,13 @@ A well-educated, AI-boosted software engineer of the future...
 
 ### Links
 
-* Jensen Huang "nobody has to program" https://youtu.be/iUOrH2FJKfo?si=egHnlRe3OeTV4Yh5&t=1111
-* https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence
+* Jensen Huang "nobody has to program":
+  * https://youtu.be/iUOrH2FJKfo?si=egHnlRe3OeTV4Yh5&t=1111
+* Learn about the recurring AI-winters (scroll down for history):
+  * https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence
 * Learn Scala, a modern, powerful, safe programming language: 
   * https://www.scala-lang.org/
-  * https://cs.lth.se/pgk/
-* Learn Software Requirements Engineering:
-  * https://cs.lth.se/krav/
-* https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/
-* On software developer productivity
-  * https://web.eecs.umich.edu/~movaghar/What_Predicts_Software_Developers_Productivity%20IEEE-TSE%202019.pdf
-  * https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10043615
-  * https://youtu.be/X_vNaD1JOEY?si=JK86O3S-qX9I8SMV
-  * https://dl.acm.org/doi/pdf/10.1145/3540250.3558940
+* Play with a zero-dependency, minimal neural network written from scratch in Scala:
+  * https://github.com/bjornregnell/scai
+
+More links in the last slide of the [presentation](https://github.com/bjornregnell/the-future-software-engineer/releases).
