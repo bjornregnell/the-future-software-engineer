@@ -42,6 +42,8 @@ AI-code can have bugs anywhere, even if the code looks ok. The result from a lar
 
 And we can't really **explain** exactly why the AI halucinated and gave us buggy code. 
 
+More on the defiencies of machine learning in the [slides](https://github.com/bjornregnell/the-future-software-engineer/releases).
+
 #### Software engineering knowledge that help you stay stay relevant
 
 * A deep and thurough education in computer science and engineering
@@ -70,6 +72,8 @@ A well-educated, AI-boosted software engineer of the future...
 * understands when symbolic AI is better than trained AI
 * is expert in software requirements and architecture and knows how to prioritize and do tradeoffs
 * learns to master modern, high-level, powerful and safe programming languages, such as [Scala](https://www.scala-lang.org/), that scale with higher complexity and prevent bugs by design
+
+More on the common knowledge needee by the future engineer in the [slides](https://github.com/bjornregnell/the-future-software-engineer/releases).
 
 ### Links
 
