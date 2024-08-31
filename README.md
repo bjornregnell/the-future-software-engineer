@@ -24,7 +24,7 @@ We have heard the story before. Already in 1957 the ancient programming language
 
 What happened? Thanks to the compiler, software engineers could start coding at a higher abstraction level and get more done. Did assembler programmers loose their jobs? No, but they needed to learn new things. And they had really good use of their deep knowledge in machine coding when writing source code. We still today teach about machine programming as every well-educated software engineer needs to understand what is actually happening at different abstraction levels.
 
-The programming languages of the 60s provided abstraction mechisms that enabled the construction of much more complex software at a much higher productivity rate. And the story repeats itself on and on in the history of software engineering: powerful abstractions enable us to create more complex software, and when it gets too complex we need to create more powerful abstractions.
+The programming languages of the 60s provided abstraction mechanisms that enabled the construction of much more complex software at a much higher productivity rate. And the story repeats itself on and on in the history of software engineering: powerful abstractions enable us to create more complex software, and when it gets too complex we need to create more powerful abstractions.
 
 What Jens Huang from Nvidia actually said in Dubai in february 2024 was: "the programming language is human" and "everybody in the world is now a programmer - this is the miracle of artificial intelligence".
 
