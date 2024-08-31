@@ -34,7 +34,7 @@ Yes, I think AI can help us with the nitty gritty, boilerplate coding details. N
 
 Thanks to AI-boosted coding we can get relived of the nitty-gritty boilerplate coding and focus on the hard stuff in Software Engineering, and we can raise the level of abstraction. Finally the experienced coders can get more time for things like requirements engineering and architecture. 
 
-Many coders today spend much of their time on nitty-gritty coding and non-interesting boilerplate. Compare to machine engineering building a factory producing things: do the machine engineers work all day by the conveyor belt doing repetivie tasks? No. But they sure need to understand what is going on in detail on the factory floor in order to be good at optimizing the flow of goods in the production. Many software engineers are stuck with low level coding of writing nitty-gritty bolierplate and crafting while loops. AI can help us here, and the more standard and bolierplaty the code is, the more reliable are AI-generated solutions.
+Many coders today spend much of their time on nitty-gritty coding and non-interesting boilerplate. Compare to machine engineering building a factory producing things: do the machine engineers work all day by the conveyor belt doing repetitive tasks? No. But they sure need to understand what is going on in detail on the factory floor in order to be good at optimizing the flow of goods in the production. Many software engineers are stuck with low level coding of writing nitty-gritty bolierplate and crafting while loops. AI can help us here, and the more standard and bolierplaty the code is, the more reliable are AI-generated solutions.
 
 #### What is bad with trained, generative AI?
 
