@@ -20,7 +20,7 @@ Is he right that AI will take the jobs of human coders? Should I as a professor 
 
 I don't think so!
 
-We have heard the story before. Already in 1957 the ancient programming language Fortran was introduced in an academic paper entiteled "The FORTRAN Automatic Coding System". And the assembler programmers were complaining. Some cried that the compiler will take their work. Others claimed that it was better that humans write the machine code as the compiler is not smart enough to do the trickiest optimizations - the machine code will be of superios quality if us humans write it instead of the automatic compiler.
+We have heard the story before. Already in 1957 the ancient programming language Fortran was introduced in an academic paper entiteled "The FORTRAN Automatic Coding System". And the assembler programmers were complaining. Some cried that the compiler will take their work. Others claimed that it was better that humans write the machine code as the compiler is not smart enough to do the trickiest optimizations - the machine code will be of superior quality if us humans write it instead of the automatic compiler.
 
 What happened? Thanks to the compiler, software engineers could start coding at a higher abstraction level and get more done. Did assembler programmers loose their jobs? No, but they needed to learn new things. And they had really good use of their deep knowledge in machine coding when writing source code. We still today teach about machine programming as every well-educated software engineer needs to understand what is actually happening at different abstraction levels.
 
