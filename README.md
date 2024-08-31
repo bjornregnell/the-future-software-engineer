@@ -73,7 +73,7 @@ A well-educated, AI-boosted software engineer of the future...
 * is expert in software requirements and architecture and knows how to prioritize and do tradeoffs
 * learns to master modern, high-level, powerful and safe programming languages, such as [Scala](https://www.scala-lang.org/), that scale with higher complexity and prevent bugs by design
 
-More on the common knowledge needee by the future engineer in the [slides](https://github.com/bjornregnell/the-future-software-engineer/releases).
+More on the common knowledge needed by the future engineer in the [slides](https://github.com/bjornregnell/the-future-software-engineer/releases).
 
 ### Links
 
